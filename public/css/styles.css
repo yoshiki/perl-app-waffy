@@ -1,0 +1,17 @@
+div#title {
+  font-size: 24pt;
+}
+
+div.name {
+  font-size: 16pt;
+  font-weight: bold;
+  line-height: 160%;
+}
+
+div.text {
+  font-size: 14pt;
+}
+
+div.created_at {
+  font-size: 9pt;
+}
