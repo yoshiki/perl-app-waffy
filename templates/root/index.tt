@@ -1,9 +1,0 @@
-% my $c = shift;
-<!doctype html>
-    <head><title>Waffy!</title></head>
-    <body>
-% for my $i ( 0..20 ) {
-  <p><%= $i %></p>
-% }
-    </body>
-</html>
