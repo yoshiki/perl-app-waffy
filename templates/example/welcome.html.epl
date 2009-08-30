@@ -1,0 +1,9 @@
+% my $self = shift;
+<h2><%= $self->stash('message') %></h2>
+This page was generated from the template
+"templates/example/welcome.html.epl" and the layout
+"templates/layouts/default.html.epl",
+<a href="<%= $self->url_for %>">click here</a>
+to reload the page or
+<a href="/index.html">here</a>
+to move forward to a static page.

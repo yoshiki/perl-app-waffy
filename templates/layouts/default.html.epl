@@ -1,0 +1,7 @@
+% my $self = shift;
+<!doctype html>
+    <head><title>Welcome</title></head>
+    <body>
+        <%= $self->render_inner %>
+    </body>
+</html>
